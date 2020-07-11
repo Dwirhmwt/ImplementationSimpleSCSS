@@ -1,0 +1,9 @@
+.btn {
+    
+    @include button(none,1px solid, red);
+   
+}
+
+.btn-outline {
+    @include button(gray, 2px, yellow );
+}

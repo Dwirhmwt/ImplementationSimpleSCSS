@@ -1,0 +1,44 @@
+h1 {
+  font-size: 3rem;
+  font-family: "Jokerman";
+}
+
+.btn {
+  background: none;
+  border: 1px solid;
+  color: red;
+  padding: 10px 20px;
+  font-family: "Jokerman";
+  font-size: 20px;
+}
+
+.btn-outline {
+  background: gray;
+  border: 2px;
+  color: yellow;
+  padding: 10px 20px;
+  font-family: "Jokerman";
+  font-size: 20px;
+}
+
+ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  list-style: none;
+  padding: 0;
+  font-family: "Jokerman";
+}
+
+ul li {
+  margin-right: 20px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: gray;
+}
+/*# sourceMappingURL=main.css.map */
